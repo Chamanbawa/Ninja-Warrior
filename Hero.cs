@@ -160,10 +160,7 @@ namespace OOP_Final_assessment
             _setCurrentHealth();
         }
 
-        public void Game()
-        {
-
-        }
+      
 
     }
 }
